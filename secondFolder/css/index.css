@@ -466,3 +466,12 @@ footer {
  
   }
 }
+
+.contact{
+  display: block;
+  margin: 0 auto;
+}
+
+body{
+  background-color:#e0c998;
+}
